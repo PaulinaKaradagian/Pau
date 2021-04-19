@@ -1,2 +1,0 @@
-# article-peview-component
-Challenge
